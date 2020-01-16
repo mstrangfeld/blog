@@ -1,8 +1,8 @@
 # Site settings
 title: Marvin Strangfeld
 description: 'Open Source Developer'
-url: 'https://mstrangfeld.github.io/'
-baseurl: '/blog'
+url: 'http://strangfeld.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
