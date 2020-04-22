@@ -1,73 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-      <loc>http://strangfeld.io/2020/hello-world/</loc>
-      
-        <lastmod>2020-01-16T10:00:00-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-    
+  <url>
+    <loc>https://strangfeld.io/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
+  <url>
+    <loc>https://strangfeld.io/posts/2020-04-21/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-      <loc>http://strangfeld.io/feed.xml</loc>
-      
-        <lastmod>2020-01-16T11:16:01-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
+  <url>
+    <loc>https://strangfeld.io/tags/meta/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
+  <url>
+    <loc>https://strangfeld.io/posts/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
+  <url>
+    <loc>https://strangfeld.io/tags/</loc>
+    <lastmod>2020-04-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-      <loc>http://strangfeld.io/css/main.css</loc>
-      
-        <lastmod>2020-01-16T11:16:01-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
+  <url>
+    <loc>https://strangfeld.io/about/</loc>
+  </url>
   
-    
+  <url>
+    <loc>https://strangfeld.io/categories/</loc>
+  </url>
   
-    
-  
-    
-    <url>
-      <loc>http://strangfeld.io/assets/css/style.css</loc>
-      
-        <lastmod>2020-01-16T11:16:01-06:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
+  <url>
+    <loc>https://strangfeld.io/series/</loc>
+  </url>
   
 </urlset>

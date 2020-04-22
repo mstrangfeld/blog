@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strangfeld IO</title>
+    <link>https://strangfeld.io/</link>
+    <description>Recent content on Strangfeld IO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://strangfeld.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First post!</title>
+      <link>https://strangfeld.io/posts/2020-04-21/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://strangfeld.io/posts/2020-04-21/</guid>
+      <description>This is my first post, how exciting!
+1 2 3 4 5 6 7  package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World!&amp;#34;) }   </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://strangfeld.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://strangfeld.io/about/</guid>
+      <description>Studying Computer Science 💻 at the RWTH Aachen University 🔬 in Germany, working as a Release Engineer 📦 at Open Xchange, being an Open Source Contributor for various projects, Musician 🎼 from the depth of my heart, a huge Space Nerd 🚀, and whenever I can I am also a Sailor ⛵
+Main Technologies I work with  Linux 🐧 Containers / Docker / Podman 🐋 Kubernetes Go 🐹 Kotlin Java Gradle 🐘 CI/CD (Jenkins / GitLab CI)  </description>
+    </item>
+    
+  </channel>
+</rss>
