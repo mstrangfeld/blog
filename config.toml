@@ -62,7 +62,7 @@ enableEmoji = true
     name = "Twitter"
     icon = "fab fa-twitter"
     weight = 3
-    url = "https://twitter.com/strangfeld.io/"
+    url = "https://twitter.com/strangfeld_io/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
@@ -76,11 +76,6 @@ enableEmoji = true
 [[params.social]]
     name = "Mastodon"
     icon = "fab fa-mastodon"
-    weight = 4
-    url = "https://mastodon.social/@strangfeld"
-[[params.social]]
-    name = "Telegram"
-    icon = "fab fa-telegram"
     weight = 4
     url = "https://mastodon.social/@strangfeld"
 [[params.social]]
