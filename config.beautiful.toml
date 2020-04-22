@@ -1,0 +1,65 @@
+baseURL = "https://strangfeld.io/"
+languageCode = "en-us"
+title = "Strangfeld IO"
+
+theme = ["github.com/halogenica/beautifulhugo"]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "emacs"
+    tabWidth = 4
+
+[Params]
+  subtitle = "Open Source | Software Engineering | DevOps and SRE"
+  mainSections = ["post","posts"]
+  logo = "img/profile.jpg" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat = "2006-01-02"
+  commit = false
+  rss = true
+  readingTime = true
+  wordCount = true
+  # useHLJS = true
+  socialShare = true
+  showRelatedPosts = true
+  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[[Params.bigimg]]
+  src = "img/cover.jpg"
+  # position: see values of CSS background-position.
+  position = "center top"
+
+[Author]
+  name = "Marvin Strangfeld"
+  website = "strangfeld.io"
+  email = "marvin@strangfeld.io"
+  github = "mstrangfeld"
+  twitter = "strangfeld_io"
+  linkedin = "marvin-strangfeld"
+  stackoverflow = "users/12398541/marvin-strangfeld"
+  instagram = "strangfeld.io"
+  telegram = "MarvinStrangfeld"
+  mastodon = "mastodon.social/@strangfeld"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "about"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3

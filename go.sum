@@ -1,0 +1,4 @@
+github.com/halogenica/beautifulhugo v0.0.0-20191128170803-1ff3894b84b1 h1:Myd82JwfnLJEfd01W6UBmPSEWK71fQYwG5q7l/e69tE=
+github.com/halogenica/beautifulhugo v0.0.0-20191128170803-1ff3894b84b1/go.mod h1:ufPkGvDjUx8ELYtHwaxCSuQeDMIrW7wtDzw/Hqoy4CY=
+github.com/luizdepra/hugo-coder v0.0.0-20200413144453-e46c452344a1 h1:1dnVKKWXXrTQ0hKonSuN/HRPNyZ2EIBmQvHlFEFr5jI=
+github.com/luizdepra/hugo-coder v0.0.0-20200413144453-e46c452344a1/go.mod h1:6nu/OxeF5LLM5MBhpzTM40kZi80qCHPm2IXxHI0H+KA=

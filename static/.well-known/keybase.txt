@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/mstrangfeld
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://strangfeld.io
+  * I am mstrangfeld (https://keybase.io/mstrangfeld) on keybase.
+  * I have a public key with fingerprint 99C3 B965 B0C6 19D5 0C9A  BBD6 7F6A 2137 FA33 1377
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01010f2b6b8d8cd774033aad3234e0403be775e8fd8e2e336dff2417caa0b23409210a",
+      "fingerprint": "99c3b965b0c619d50c9abbd67f6a2137fa331377",
+      "host": "keybase.io",
+      "key_id": "7f6a2137fa331377",
+      "kid": "01010f2b6b8d8cd774033aad3234e0403be775e8fd8e2e336dff2417caa0b23409210a",
+      "uid": "988c328cf0c1122b10d029260bf76719",
+      "username": "mstrangfeld"
+    },
+    "merkle_root": {
+      "ctime": 1587488278,
+      "hash_meta": "bcee0ada7d9116372f694fed3dd1bfdb7c787c404f6df556c82ca2fccdf28cd0",
+      "seqno": 16002222
+    },
+    "revoke": {
+      "sig_ids": [
+        "53adac5eb91b44b6e08d29397f3a4720f562b24ce6e51c6f21dd7ac44ee8bc810f"
+      ]
+    },
+    "service": {
+      "hostname": "strangfeld.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1587488280,
+  "expire_in": 157680000,
+  "prev": "1042955f98b152121a757892bf42e919126d09f43b75e6be83f89b2a55a0eca2",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK4AnicrVNbaB1FGD6xPdWEllZFTEFBt9oHCWEuu3PJg4qCYpVStdCYxh7nerKe
+nN3T3T2xtcRITCAtFiwWUy/YSov1QTFGxROJQWJjTQteKrRCjwheQLFgtVKkXmdj
+pSA+OvswzOz3f9/3fzNzaNmiQlvLm82zQ6OFTy5vOTr7cL2wae/q9m2ejPVWr2ub
+VzELk+nXJs1KlVB7XR6A7rNIEsk0U5pSH2AshMYI+wa4hTSUBoZZzQwyGBNtLfIh
+VUIA6TCAIwiE1+HZMCqbpJaEUeZoOVdYchJIoAjkOgCKCyk1oZYIBDG1AmM3UVfY
+F6d5hTMnRWo6w9jtuUVpwd5/4P9n3/UFOs6YwogpCxSECEkINEAcESAtJRTyHJia
+JBJV49DVNEtEVLYuSW+ww6uapNJvSkkcZ3m+KgtzFAwY9RlDlLkeRdpXqppMuGKp
+jAFCC6o5hARTZAn3rdFYayitllRRRpUPfOs8BwFRDCmBrFLaOoMaOCup2RzFToEA
+gNxwFhIzEFdMrp6GZRdd6nVt9ALsZFRgJIfS9yUxgGnEMacWC58iYAOCJPKVISaA
+ilgEtaZC+b4xTCrm8vXuH8zVkoFQLZDnZ3U+gwsR/H1ktSTOYhX3u199WVZLu/Jk
+sq21HPuQkaXzLCUZRtpdFVcxYJI0jCPXh0P+KzQGOjyzpRYmphTmiIASBtzIdcyA
+o4TARzwILGcSBggiKGhAGUfS+shwyCEiGnDrY+luAZGGYcu4RCIIBDAuzwspBs6m
+KOcdheVIZPXEeIOz7/YuLrS0FZYUL8qfUKGtdcU/D+vtFy8p7D3x06Obhh6pHn9i
+bOpHeLR+pNn+yk2HnvUmVr/++MiRsd+Ob7xt1frxi7/o3rX7xLnr3vkgqU40VtVm
+n+4elft/+XP5yYnfi5PN+SXPr9zw1QYzXLqS7X5he+sDxU9PzR1edibafnD6/Ybe
+cmzxU5PZ9NjH87es3zOH181c2tzRAw9/Fk5dc8A/OHLDjd+Rxu32qvqaueZ48tbp
+meEDlSev//beXZObazePrP2ht9z50dIrRs4WyYqlpe7lww/Ov3fyuWDHzs413187
+M/T59GXJ1KvydE/bfb3drY+d+Ybe/eX4WnvXh/tGX/u6sXNdfMe5N1b2LPq5Jd5z
+apQee+mP4su1q+N7qr8+c2tjX/udfwGno4cq
+=+Qz7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mstrangfeld
+
+==================================================================
