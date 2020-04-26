@@ -1,6 +1,7 @@
 ---
 title: First post!
 date: 2020-04-21
+slug: "hello-world"
 tags:
   - meta
 ---
