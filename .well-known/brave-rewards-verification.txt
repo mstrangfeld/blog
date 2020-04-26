@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: strangfeld.io
+Token: 1d524de9b99d69f5f5436ab838ef9eec8aca44d19de69dd2b18a17fe737efa3a
