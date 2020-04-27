@@ -3,6 +3,17 @@
 [![PGP Key](https://badgen.net/keybase/pgp/mstrangfeld)](https://keybase.io/mstrangfeld)
 [![License](https://badgen.net/badge/license/CC-BY-4.0/green)](https://creativecommons.org/licenses/by/4.0/)
 
+
+## Setup
+
+```
+> git clone git@github.com:mstrangfeld/blog.git
+
+> rm -rf public
+> git worktree add -B gh-pages public origin/gh-pages
+> hugo
+```
+
 ## Disclaimer
 
 The information in this weblog is provided “AS IS” with no warranties, and confers no rights.
