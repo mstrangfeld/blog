@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Strangfeld IO</title>
+    <title>Strangfeld I/O</title>
     <link>https://strangfeld.io/</link>
-    <description>Recent content on Strangfeld IO</description>
+    <description>Recent content on Strangfeld I/O</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://strangfeld.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IPv6 UDP Sockets with Python 3</title>
+      <link>https://strangfeld.io/posts/ipv6-udp-sockets-python/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://strangfeld.io/posts/ipv6-udp-sockets-python/</guid>
+      <description>Today I wanted to trace the syscalls that are made when using an IPv6 UDP socket. This is one of the reasons I love Python because it enables me to quickly write and test code.
+I thought this might be useful for some of you:
+udp_ipv6_client.py
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  #!/usr/bin/env python3 import socket UDP_IP = &amp;#34;::1&amp;#34; # localhost UDP_PORT = 5005 MESSAGE = &amp;#34;Hello, World!</description>
+    </item>
     
     <item>
       <title>First post!</title>
@@ -28,7 +40,7 @@
       
       <guid>https://strangfeld.io/about/</guid>
       <description>Studying Computer Science 💻 at the RWTH Aachen University 🔬 in Germany, working as a Release Engineer 📦 at Open Xchange, being an Open Source Contributor for various projects, Musician 🎼 from the depth of my heart, a huge Space Nerd 🚀, and whenever I can I am also a Sailor ⛵
-Main Technologies I work with  Linux 🐧 Containers / Docker / Podman 🐳 Kubernetes Go 🐹 Kotlin Java Gradle 🐘 CI/CD (Jenkins / GitLab CI)  </description>
+Main Technologies I work with 🔧  Linux 🐧 Containers / Docker / Podman 🐳 Kubernetes Go 🐹 Kotlin Java Gradle 🐘 CI/CD (Jenkins / GitLab CI) Python 🐍  </description>
     </item>
     
   </channel>

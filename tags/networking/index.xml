@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Strangfeld I/O</title>
-    <link>https://strangfeld.io/posts/</link>
-    <description>Recent content in Posts on Strangfeld I/O</description>
+    <title>networking on Strangfeld I/O</title>
+    <link>https://strangfeld.io/tags/networking/</link>
+    <description>Recent content in networking on Strangfeld I/O</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://strangfeld.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://strangfeld.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
 I thought this might be useful for some of you:
 udp_ipv6_client.py
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15  #!/usr/bin/env python3 import socket UDP_IP = &amp;#34;::1&amp;#34; # localhost UDP_PORT = 5005 MESSAGE = &amp;#34;Hello, World!</description>
-    </item>
-    
-    <item>
-      <title>First post!</title>
-      <link>https://strangfeld.io/posts/hello-world/</link>
-      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://strangfeld.io/posts/hello-world/</guid>
-      <description>This is my first post, how exciting!
-1 2 3 4 5 6 7  package main import &amp;#34;fmt&amp;#34; func main() { fmt.Println(&amp;#34;Hello, World!&amp;#34;) }   </description>
     </item>
     
   </channel>
