@@ -10,7 +10,7 @@ being an **Open Source Contributor** for various projects,
 a huge **Space Nerd** :rocket:,
 and whenever I can I am also a **Sailor** :sailboat:
 
-### Main Technologies I work with
+### Main Technologies I work with :wrench:
 
 + Linux :penguin:
 + Containers / Docker / Podman :whale:
@@ -20,3 +20,4 @@ and whenever I can I am also a **Sailor** :sailboat:
 + Java
 + Gradle :elephant:
 + CI/CD (Jenkins / GitLab CI)
++ Python :snake:

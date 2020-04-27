@@ -1,5 +1,5 @@
 baseurl = "https://strangfeld.io"
-title = "Strangfeld IO"
+title = "Strangfeld I/O"
 
 theme = "github.com/luizdepra/hugo-coder"
 
