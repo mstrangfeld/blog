@@ -24,8 +24,8 @@ enableEmoji = true
 
 [params]
     author = "Marvin Strangfeld"
-    description = "Marvin Strangfeld's personal website"
-    keywords = "blog,developer,personal"
+    description = "Strangfeld I/O"
+    keywords = "strangfeld,marvin,blog,developer,personal,sre,devops,open,source,git,github,go,kotlin,gradle,docker,kubernetes"
     info = "Open Source | Software Engineering | DevOps and SRE"
     avatarurl = "img/profile.jpg"
     footercontent = "“We’re all stories, in the end. Just make it a good one, eh?” ~ The Doctor"
@@ -36,6 +36,8 @@ enableEmoji = true
     hideCredits = false
     hideCopyright = false
     since = 2020
+
+    commit = "https://github.com/mstrangfeld/blog/tree/"
 
     colorscheme = "light"
 

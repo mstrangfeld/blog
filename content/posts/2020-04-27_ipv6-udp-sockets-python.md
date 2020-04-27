@@ -2,7 +2,7 @@
 draft = false
 date = 2020-04-27
 title = "IPv6 UDP Sockets with Python 3"
-description = ""
+description = "Short example how to write an IPv6 UDP server and client using sockets with Python 3"
 slug = "ipv6-udp-sockets-python"
 tags = ["python", "networking"]
 categories = ["quick-tip"]

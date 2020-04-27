@@ -2,6 +2,7 @@
 title: First post!
 date: 2020-04-21
 slug: "hello-world"
+description: "My first post on this blog, how exciting!"
 tags:
   - meta
 ---
