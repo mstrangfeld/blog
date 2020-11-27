@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Management on Strangfeld I/O</title>
+    <link>https://strangfeld.io/tags/management/</link>
+    <description>Recent content in Management on Strangfeld I/O</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Nov 2020 08:01:25 +0100</lastBuildDate><atom:link href="https://strangfeld.io/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book review: The Phoenix Project</title>
+      <link>https://strangfeld.io/posts/phoenix-project-book/</link>
+      <pubDate>Fri, 27 Nov 2020 08:01:25 +0100</pubDate>
+      
+      <guid>https://strangfeld.io/posts/phoenix-project-book/</guid>
+      <description>Dear reader,
+This post is the start of a series where I will recap some of the best books I have read. I will write about a variety of topics such as: Software Engineering, DevOps, Distributed Systems, Business, Management, Psychology, Math, Philosophy and Physics.
+To start this series, I would like to talk about a book that taught me a lot about the principles of DevOps and introduced me to the world of IT management.</description>
+    </item>
+    
+  </channel>
+</rss>

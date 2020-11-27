@@ -6,11 +6,7 @@
     <description>Recent content on Strangfeld I/O</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://strangfeld.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://strangfeld.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IPv6 UDP Sockets with Python 3</title>
       <link>https://strangfeld.io/posts/ipv6-udp-sockets-python/</link>
@@ -39,8 +35,9 @@ udp_ipv6_client.py
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://strangfeld.io/about/</guid>
-      <description>Studying Computer Science 💻 at the RWTH Aachen University 🔬 in Germany, working as a Release Engineer 📦 at Open Xchange, being an Open Source Contributor for various projects, Musician 🎼 from the depth of my heart, a huge Space Nerd 🚀, and whenever I can I am also a Sailor ⛵
-Main Technologies I work with 🔧  Linux 🐧 Containers / Docker / Podman 🐳 Kubernetes Go 🐹 Kotlin Java Gradle 🐘 CI/CD (Jenkins / GitLab CI) Python 🐍  </description>
+      <description>Hey there! 👋
+My name is Marvin and I&amp;rsquo;m a Computer Science student at the RWTH Aachen University in Germany. I am interested in a variety of topics including: software engineering, DevOps and distributed systems but also things like physics, math, space exploration and music. I like the idea of Open Source and try to make as many projects publicly available as I can.
+Here are some fun facts about me:  My favorite programming language:  Kotlin or Go   Technologies I love:  Kubernetes, Linux 🐧, Containers   Things I would like to learn:  Rust, Haskell, how to fly a plane ✈️   What I am good at:  Coming up with creative ideas to solve complex problems 💡   What I am terrible at:  Frontend development&amp;hellip; I mean how do you even center a div?</description>
     </item>
     
   </channel>
