@@ -4,6 +4,10 @@ title = "Strangfeld IO"
 
 theme = ["github.com/halogenica/beautifulhugo"]
 
+paginate = 20
+canonifyurls = true
+enableEmoji = true
+
 [markup]
   [markup.highlight]
     codeFences = true
